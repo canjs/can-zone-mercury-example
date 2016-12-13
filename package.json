@@ -11,9 +11,9 @@
     "express": "^4.13.4",
     "global": "^4.3.0",
     "mercury": "matthewp/mercury#ssr-update",
-    "steal": "^0.14.1",
+    "steal": "^0.16.43",
     "vdom-to-html": "^2.2.0",
-    "vdom-virtualize": "^1.0.5",
+    "vdom-virtualize": "^2.0.0",
     "weakmap-event": "^2.0.6",
     "xmlhttprequest": "^1.8.0",
     "xtend": "^4.0.1"
